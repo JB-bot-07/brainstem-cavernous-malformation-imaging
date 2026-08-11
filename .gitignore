@@ -1,0 +1,42 @@
+# Neuroimaging / patient data
+*.nii
+*.nii.gz
+*.dcm
+*.dicom
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# Slurm / logs
+*.out
+*.err
+slurm-*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large project-data directories
+dicom/
+unprocessednifti/
+processednifti/
+semiautomasks/
+brainstem_masks*/
+results/
+logs/
+features/
