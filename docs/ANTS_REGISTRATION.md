@@ -165,3 +165,13 @@ Earlier development experiments included:
 - T1+C patient 104 to patient 026 registration
 
 These remain on the HPC for provenance but are not the primary 124-case workflow.
+
+---
+
+## Case-Specific QC and Exceptions
+
+Patient-specific registration and brainstem-mask QC decisions are documented separately in:
+
+docs/BRAINSTEM_REGISTRATION_QC.md
+
+This document includes the final handling decisions for Bni_Cm_Ret_066, Bni_Cm_Ret_087, Bni_Cm_Ret_089, and Bni_Cm_Ret_116.

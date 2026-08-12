@@ -105,3 +105,11 @@ for the corresponding HPC locations.
 ## Primary HPC Project Root
 
 /scratch/jbayasi/Cavmalproject1
+
+## Brainstem Registration QC
+
+Case-specific registration and brainstem-mask QC decisions are documented in:
+
+- docs/BRAINSTEM_REGISTRATION_QC.md
+
+This includes the final handling of Bni_Cm_Ret_066, Bni_Cm_Ret_087, Bni_Cm_Ret_089, and Bni_Cm_Ret_116.
